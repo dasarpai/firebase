@@ -5,6 +5,8 @@
   },
   "hosting": [
     {
+      "site": "my-firebase-app1234",
+      "public": "public",
       "source": ".",
       "ignore": [
         "firebase.json",
